@@ -1,0 +1,18 @@
+[
+  {
+    "title": "Portfolio Website",
+    "description": "A personal portfolio to showcase my work.",
+    "techStack": ["React", "Tailwind CSS", "Vite"],
+    "github": "https://github.com/yourusername/portfolio",
+    "live": "https://yourportfolio.com",
+    "teammates": ["John Doe"]
+  },
+  {
+    "title": "Chat App",
+    "description": "A real-time chat application.",
+    "techStack": ["React", "Socket.io", "Node.js"],
+    "github": "https://github.com/yourusername/chat-app",
+    "live": "",
+    "teammates": []
+  }
+]

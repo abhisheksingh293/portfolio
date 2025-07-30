@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Ankit Raj Sharma",
+    "role": "Founder",
+    "avatar": "https://res.cloudinary.com/dxwszplz7/image/upload/v1751363392/ankit_fa7frp.png",
+    "social": {
+      "linkedin": "https://linkedin.com/in/ankitrajsharmaz"
+    },
+    "projects": [
+      { "name": "Vardaan Learning Institute", "link": "https://vardaanlearning.com" },
+      { "name": "Personal Website", "link": "https://ankitrajsharma.com" }
+    ]
+  }
+]

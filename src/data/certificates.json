@@ -1,0 +1,16 @@
+[
+  {
+    "title": "React Developer Certificate",
+    "domain": "Web",
+    "image": "/certificates/react-certificate.jpg",
+    "issuer": "Coursera",
+    "date": "2024-01-15"
+  },
+  {
+    "title": "AI Internship",
+    "domain": "AI",
+    "image": "/certificates/ai-internship.jpg",
+    "issuer": "OpenAI",
+    "date": "2023-08-10"
+  }
+]

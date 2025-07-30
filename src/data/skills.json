@@ -1,0 +1,17 @@
+[
+  {
+    "category": "Frontend",
+    "skills": [
+      { "name": "React", "icon": "SiReact" },
+      { "name": "Tailwind CSS", "icon": "SiTailwindcss" },
+      { "name": "JavaScript", "icon": "SiJavascript" }
+    ]
+  },
+  {
+    "category": "Backend",
+    "skills": [
+      { "name": "Node.js", "icon": "SiNodedotjs" },
+      { "name": "Express", "icon": "SiExpress" }
+    ]
+  }
+]
